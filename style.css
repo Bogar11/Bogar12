@@ -145,7 +145,7 @@ section {
 }
 .text-animation span{
     position: absolute;
-    border-left: 3px;
+    
     margin-left: 12px;
 }
 .text-animation span::before{
